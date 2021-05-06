@@ -1,7 +1,11 @@
 # img
 Utility for batch manipulation of images, comping and cropping on the command line
 
-This tool is dependent on Node-Canvas
+This tool is dependent on node-canvas https://www.npmjs.com/package/canvas
+
+```
+npm install canvas
+```
 
 Purpose
 -------
