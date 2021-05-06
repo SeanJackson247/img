@@ -9,8 +9,9 @@ I created this tool to help create animations using Gimp without having to rely 
 
 Usage
 =====
+```
 node C:/img comp inputFileA.png inputFileB.png outputFile.png
-
+```
 The two inputs and the outputs can be files or folders of files, however if one of the inputs is a folder then the output must be a folder. The files in the resulting output folder are named using the names of the files in the first folder given as an argument.
 
 The first command can be either comp or match.
